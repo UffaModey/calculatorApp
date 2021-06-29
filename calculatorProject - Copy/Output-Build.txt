@@ -1,0 +1,11 @@
+﻿Build started...
+1>------ Build started: Project: calculatorProject, Configuration: Debug Win32 ------
+1>calculatorProject.cpp
+1>C:\Users\akori\source\repos\calculatorProject - Copy\calculatorProject\calculatorProject.cpp(65,23): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\akori\source\repos\calculatorProject - Copy\calculatorProject\calculatorProject.cpp(73,23): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\akori\source\repos\calculatorProject - Copy\calculatorProject\calculatorProject.cpp(81,23): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\akori\source\repos\calculatorProject - Copy\calculatorProject\calculatorProject.cpp(89,23): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\akori\source\repos\calculatorProject - Copy\calculatorProject\calculatorProject.cpp(99,23): warning C4018: '<': signed/unsigned mismatch
+1>calculatorProject.vcxproj -> C:\Users\akori\source\repos\calculatorProject - Copy\Debug\calculatorProject.exe
+1>Done building project "calculatorProject.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

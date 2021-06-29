@@ -1,0 +1,7 @@
+﻿  calculatorProject.cpp
+C:\Users\akori\source\repos\calculatorProject - Copy\calculatorProject\calculatorProject.cpp(65,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\akori\source\repos\calculatorProject - Copy\calculatorProject\calculatorProject.cpp(73,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\akori\source\repos\calculatorProject - Copy\calculatorProject\calculatorProject.cpp(81,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\akori\source\repos\calculatorProject - Copy\calculatorProject\calculatorProject.cpp(89,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\akori\source\repos\calculatorProject - Copy\calculatorProject\calculatorProject.cpp(99,23): warning C4018: '<': signed/unsigned mismatch
+  calculatorProject.vcxproj -> C:\Users\akori\source\repos\calculatorProject - Copy\Debug\calculatorProject.exe
