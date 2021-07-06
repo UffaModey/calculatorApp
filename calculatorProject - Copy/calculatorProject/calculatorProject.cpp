@@ -41,7 +41,7 @@ int main(){
     / = Division 
     */
 
-    cout << "HBK Calculator Project - Uffa Modey" << endl << endl;
+    cout << "Calculator Project - Uffa Modey" << endl << endl;
     
     //Collect the user input to form the equation for calculation
     cout << "Enter a value:";
